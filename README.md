@@ -8,8 +8,8 @@ Enheten viser neste levering av post på ditt postnummer. En nedtelling i dager 
 
 #### Renovasjon
 Enheten henter data om hvilke typer avfall som hentes på din adresse og når. Enheten lager sensorer som tilsvarer typen avfall, og viser dato. En nedtelling i dager og type avfall som hentes neste gang, kan settes som status på enheten.
-* *
-#### VIKTIG INFO OM RENOVASJON
+
+***#### VIKTIG INFO OM RENOVASJON
 Per nå er ikke alle kommuner støttet. en komplett liste med støttede kommuner kommer snart.
 ##### STØTTEDE KOMMUNER
 - Sola kommune
@@ -18,8 +18,7 @@ Per nå er ikke alle kommuner støttet. en komplett liste med støttede kommuner
 
 ##### IKKE ENDA STØTTET
 - Stavanger kommune
-- Bergen kommune
-* *
+- Bergen kommune***
 Gi gjerne tilbakemelding om kommuner du har testet, som enten funker, eller ikke.
 Det kan du gjøre ved å åpne en issue her på GitHub. trykk [her](https://github.com/Coderaxx/NorwegianServicesPublic/issues) for å åpne en issue.
 
