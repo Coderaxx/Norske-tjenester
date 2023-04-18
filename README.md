@@ -41,9 +41,6 @@ Det kan du gjøre ved å åpne en issue her på GitHub. trykk [her](https://gith
 ```
 
 
-## Feedback
-
-If you have any feedback, please reach out to me at jesper.grimstad@hotmail.com.
 ## Authors
 
 - [@Coderaxx](https://www.github.com/coderaxx)
