@@ -1,0 +1,11 @@
+{
+  "type": "number",
+  "title": { "en": "Days until delivery", "no": "Tid igjen til levering" },
+  "units": "dager",
+  "decimals": 0,
+  "icon": "/drivers/posten/assets/icon.svg",
+  "uiComponent": "sensor",
+  "getable": true,
+  "setable": true,
+  "insights": false
+}

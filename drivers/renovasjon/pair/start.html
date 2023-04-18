@@ -1,0 +1,100 @@
+<link rel="stylesheet" type="text/css" href="../../../assets/css/minimal.css">
+<style type="text/css">
+  .autocomplete-container {
+    position: relative;
+  }
+</style>
+<script type="application/javascript">
+  Homey.setTitle(Homey.__("pair.title"));
+  Homey.setSubtitle(Homey.__("pair.desc"));
+
+  Homey.emit("getSettings").then(function (settings) {
+    if (settings) {
+      document.getElementById('streetname').value = settings.streetName;
+      document.getElementById('housenumber').value = settings.houseNumber;
+      document.getElementById('postcode').value = settings.postCode;
+    }
+  });
+
+  function settingsChanged() {
+    let value = {
+      "streetName": document.getElementById('streetname').value,
+      "houseNumber": document.getElementById('housenumber').value,
+      "postCode": document.getElementById('postcode').value,
+      "countyId": document.getElementById('county_id').value,
+      "addressCode": document.getElementById('address_code').value
+    };
+    Homey.emit("settingsChanged", value).then(function (result) {
+    });
+  }
+  function callAPI() {
+    let value = {
+      "streetName": document.getElementById('streetname').value,
+      "houseNumber": document.getElementById('housenumber').value,
+      "postCode": document.getElementById('postcode').value,
+      "countyId": document.getElementById('county_id').value,
+      "addressCode": document.getElementById('address_code').value
+    };
+    Homey.emit("getApiResult", value).then(function (result) {
+      console.log(JSON.stringify(result.adresser, null, 2));
+      result = result.adresser[0];
+      document.getElementById('county_id').value = result.kommunenummer;
+      document.getElementById('address_code').value = result.adressekode;
+      settingsChanged();
+    });
+  }
+
+</script>
+<fieldset class="homey-form-fieldset">
+  <div class="homey-form-group">
+    <label for="autocomplete" class="homey-form-label"><span data-i18n="pair.info.autoAddress"></span></label>
+    <div id="autocomplete" class="homey-form-input autocomplete-container" autocomplete="chrome-off"></div>
+  </div>
+</fieldset>
+<fieldset class="homey-form-fieldset">
+  <div class="homey-form-group">
+    <label for="streetname" class="homey-form-label"><span data-i18n="pair.info.address"></span></label>
+    <input id="streetname"  class="homey-form-input" type="text" value="" />
+  </div>
+  <div class="homey-form-group">
+    <label for="housenumber" class="homey-form-label"><span data-i18n="pair.info.housenumber"></span></label>
+    <input id="housenumber"  class="homey-form-input" type="text" value="" />
+  </div>
+  <div class="homey-form-group">
+    <label for="postcode" class="homey-form-label"><span data-i18n="pair.info.postcode"></span></label>
+    <input id="postcode"  class="homey-form-input" type="number" />
+  </div>
+  <div class="homey-form-group">
+    <span id="response"></span>
+  </div>
+  <div class="homey-form-group">
+    <label for="county_id" class="homey-form-label"><span data-i18n="pair.info.county_id"></span></label>
+    <input id="county_id"  class="homey-form-input" type="text" readonly />
+    <label for="address_code" class="homey-form-label"><span data-i18n="pair.info.address_code"></span></label>
+    <input id="address_code"  class="homey-form-input" type="text" readonly oninput="callAPI()" />
+  </div>
+</fieldset>
+<script src="../../../assets/js/index.min.js"></script>
+<script src="https://unpkg.com/@geoapify/geocoder-autocomplete@^1/dist/index.min.js"></script>
+<script type="text/javascript">
+  const autocompleteInput = new autocomplete.GeocoderAutocomplete(
+    document.getElementById("autocomplete"), 
+    '61f433d97b5d47fdaffa9d6617931801', 
+    {
+      countrycode:"no",
+      lang:"no",
+      placeholder:"Begynn å skrive adressen...", "en": "Start typing your address...",
+      debounceDelay:500
+    });
+
+    autocompleteInput.on('select', (location) => {
+      if (location) {
+        console.log(location);
+        location = location.properties;
+        document.getElementById('streetname').value = location.street;
+        document.getElementById('housenumber').value = location.housenumber;
+        document.getElementById('postcode').value = location.postcode;
+        $("#address_code").trigger('oninput');
+      }
+    });
+</script>

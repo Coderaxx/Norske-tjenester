@@ -1,0 +1,14 @@
+{
+	"pair": {
+		"title": "Waste collection",
+		"desc": "Fill your address below.",
+		"info": {
+			"autoAddress": "Find your address here, or fill in below",
+			"address": "Address",
+			"housenumber": "House number",
+			"postcode": "Postal code",
+			"county_id": "County ID",
+			"address_code": "Address code"
+		}
+	}
+}

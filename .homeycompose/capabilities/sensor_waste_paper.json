@@ -1,0 +1,9 @@
+{
+  "type": "string",
+  "title": {"no": "Papiravfall", "en": "Paper waste" },
+  "getable": true,
+  "setable": true,
+  "uiComponent": "sensor",
+  "uiQuickAction": false,
+  "icon": "/drivers/renovasjon/assets/icon.svg"
+}

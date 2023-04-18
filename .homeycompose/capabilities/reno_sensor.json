@@ -1,0 +1,9 @@
+{
+  "type": "string",
+  "title": {"no": "FEIL!", "en": "ERROR!" },
+  "getable": true,
+  "setable": true,
+  "uiComponent": "sensor",
+  "uiQuickAction": false,
+  "icon": "/drivers/renovasjon/assets/icon_error.svg"
+}

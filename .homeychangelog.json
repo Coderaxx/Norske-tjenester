@@ -1,0 +1,29 @@
+{
+  "1.0.0": {
+    "en": "Initial release"
+  },
+  "1.0.1": {
+    "en": "Fix name"
+  },
+  "1.0.2": {
+    "en": "Fixed wrong icon for app"
+  },
+  "1.0.3": {
+    "en": "Fixed internationalization"
+  },
+  "1.0.4": {
+    "en": "Fix settings category"
+  },
+  "1.0.5": {
+    "en": "Tried to fix wrong icon showing while pairing Posten"
+  },
+  "1.0.6": {
+    "en": "Fixed polling"
+  },
+  "1.1.3": {
+    "en": "Added renovation device"
+  },
+  "1.1.4": {
+    "en": "Removed flow for Posten, because it is no longer used."
+  }
+}

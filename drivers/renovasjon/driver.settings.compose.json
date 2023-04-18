@@ -1,0 +1,33 @@
+[
+  {
+    "type": "group",
+    "label": { "no": "Adresse innstillinger", "en": "Address settings" },
+    "children": [
+      {
+        "id": "streetName",
+        "type": "label",
+        "label": { "no": "Gatenavn", "en": "Street name" }
+      },
+      {
+        "id": "houseNumber",
+        "type": "label",
+        "label": { "no": "Husnummer", "en": "House number" }
+      },
+      {
+        "id": "postCode",
+        "type": "label",
+        "label": { "no": "Postnummer", "en": "Postal code" }
+      },
+      {
+        "id": "countyId",
+        "type": "label",
+        "label": { "no": "Kommunenr", "en": "County ID" }
+      },
+      {
+        "id": "addressCode",
+        "type": "label",
+        "label": { "no": "Adressekode", "en": "Address code" }
+      }
+    ]
+  }
+]

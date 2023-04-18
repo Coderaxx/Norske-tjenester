@@ -1,0 +1,9 @@
+{
+  "type": "string",
+  "title": {"no": "Postlevering", "en": "Mail delivery" },
+  "getable": true,
+  "setable": true,
+  "uiComponent": "sensor",
+  "uiQuickAction": false,
+  "icon": "/drivers/posten/assets/icon.svg"
+}
