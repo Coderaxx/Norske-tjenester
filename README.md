@@ -30,7 +30,7 @@ Det kan du gjøre ved å åpne en issue her på GitHub. trykk [her](https://gith
 
 ## Changelog:
 ### - 1.0.0 - Initial release
-    - 1.0.1 - Fixed name
+        - 1.0.1 - Fixed name
     - 1.0.2 - Fixed wrong icon for app
     - 1.0.3 - Fixed internationalization
     - 1.0.4 - Fixed settings category
