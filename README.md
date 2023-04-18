@@ -17,6 +17,7 @@ Enheten henter data om hvilke typer avfall som hentes på din adresse og når. E
 - *Sola kommune*
 - *Drammen kommune*
 - *Sandefjord kommune*
+*Mange flere kommuner er støttet, men kun disse er testet.*
 
 ##### *IKKE ENDA STØTTET*
 - *Stavanger kommune*
