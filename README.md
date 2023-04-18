@@ -11,10 +11,10 @@ Enheten henter data om hvilke typer avfall som hentes på din adresse og når. E
 
 #### *VIKTIG INFO OM RENOVASJON*
 *Per nå er ikke alle kommuner støttet. en komplett liste med støttede kommuner kommer snart.*
-##### STØTTEDE KOMMUNER
-- Sola kommune
+##### *STØTTEDE KOMMUNER*
+- *Sola kommune
 - Drammen kommune
-- Sandefjord kommune
+- Sandefjord kommune*
 
 ##### IKKE ENDA STØTTET
 - Stavanger kommune
