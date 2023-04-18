@@ -20,7 +20,7 @@ Per nå er ikke alle kommuner støttet. en komplett liste med støttede kommuner
 - Bergen kommune
 
 Gi gjerne tilbakemelding om kommuner du har testet, som enten funker, eller ikke.
-Det kan du gjøre ved å åpne en issue her på GitHub. trykk [her](https://github.com/Coderaxx/NorwegianServicesPublic/issues for å åpne en issue.
+Det kan du gjøre ved å åpne en issue her på GitHub. trykk [her](https://github.com/Coderaxx/NorwegianServicesPublic/issues) for å åpne en issue.
 
 
 ## Changelog:
