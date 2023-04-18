@@ -25,7 +25,7 @@ Enheten henter data om hvilke typer avfall som hentes på din adresse og når. E
 - *Bergen kommune*
 
 **Gi gjerne tilbakemelding om kommuner du har testet, som enten funker, eller ikke.
-Det kan du gjøre ved å åpne en issue her på GitHub. trykk [her](https://github.com/Coderaxx/NorwegianServicesPublic/issues) for å åpne en issue.**
+Det kan du gjøre ved å åpne en issue her på GitHub. Trykk [her](https://github.com/Coderaxx/NorwegianServicesPublic/issues) for å åpne en issue.**
 
 
 ## Changelog:
