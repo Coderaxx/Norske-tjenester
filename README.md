@@ -35,7 +35,7 @@ Det kan du gjøre ved å åpne en issue her på GitHub. Trykk [her](https://gith
 - 1.0.2 - Fixed wrong icon for app
 - 1.0.3 - Fixed internationalization
 - 1.0.4 - Fixed settings category
-- 1.0.5 - fixed wrong icon showing while pairing Posten
+- 1.0.5 - Fixed wrong icon showing while pairing Posten
 - 1.0.6 - Fixed polling
 - 1.1.0 - Added garbage removal device
 ```
