@@ -1,6 +1,13 @@
 /env.json
 /node_modules/
 /.homeybuild/
+/.homeycompose/
+/assets/
+/drivers/
+/locales/
+app.js
+app.json
+tsconfig.json
 CODE_OF_CONDUCT.md
 README.txt
 CONTRIBUTING.md
