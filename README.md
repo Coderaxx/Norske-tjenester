@@ -11,8 +11,8 @@ Enheten henter data om hvilke typer avfall som hentes på din adresse og når. E
 
 ## ROADMAP
 *Per nå jobber jeg med dette*
-:heavy_check_mark: Posten
-  :x: Lage flows for Posten
+:heavy_check_mark: Posten<br>
+  :x: Lage flows for Posten<br>
 
 :heavy_check_mark: Renovasjon
   :heavy_check_mark: Støtte for Min Renovasjon
