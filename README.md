@@ -10,11 +10,15 @@ Enheten viser neste levering av post på ditt postnummer. En nedtelling i dager 
 Enheten henter data om hvilke typer avfall som hentes på din adresse og når. Enheten lager sensorer som tilsvarer typen avfall, og viser dato. En nedtelling i dager og type avfall som hentes neste gang, kan settes som status på enheten.
 
 ### ROADMAP
-Per nå jobber jeg med dette
-- [x] Støtte for Min Renovasjon
-- [ ] Støtte for BIR
-- [ ] Støtte for ReMidt
-- [ ] Støtte for Glør
+*Per nå jobber jeg med dette*
+- [x] Posten
+  [ ] Lage flows for Posten
+- [x] Renovasjon
+  - [x] Støtte for Min Renovasjon
+  - [ ] Støtte for BIR
+  - [ ] Støtte for ReMidt
+  - [ ] Støtte for Glør
+  - [ ] Lage flows for renovasjon
 
 #### *VIKTIG INFO OM RENOVASJON*
 *Per nå er ikke alle kommuner støttet. en komplett liste med støttede kommuner kommer snart.*
