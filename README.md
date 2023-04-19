@@ -10,13 +10,13 @@ Enheten viser neste levering av post på ditt postnummer. En nedtelling i dager 
 Enheten henter data om hvilke typer avfall som hentes på din adresse og når. Enheten lager sensorer som tilsvarer typen avfall, og viser dato. En nedtelling i dager og type avfall som hentes neste gang, kan settes som status på enheten.
 
 ## ROADMAP
-*Per nå jobber jeg med dette*
+*Per nå jobber jeg med dette:*
 
 **Planlagt:**
 - :x: HeltHjem pakkesporing
 - :x: PostNord pakkesporing
 - :x: Posten pakkesporing
-- :x: Kjøretøyopplysninger fra Vegvesenet
+- Kjøretøyopplysninger fra Vegvesenet
   - :x: Informasjon om neste EU
 
 **I produksjon:**
