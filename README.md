@@ -13,11 +13,11 @@ Enheten henter data om hvilke typer avfall som hentes på din adresse og når. E
 *Per nå jobber jeg med dette:*
 
 **Planlagt:**
+- Kjøretøyopplysninger fra Vegvesenet
+  - ❌ Informasjon om neste EU
 - ❌ HeltHjem pakkesporing
 - ❌ PostNord pakkesporing
 - ❌ Posten pakkesporing
-- Kjøretøyopplysninger fra Vegvesenet
-  - ❌ Informasjon om neste EU
 
 **I produksjon:**
 - Posten
