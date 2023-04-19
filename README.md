@@ -11,10 +11,10 @@ Enheten henter data om hvilke typer avfall som hentes på din adresse og når. E
 
 ### ROADMAP
 Per nå jobber jeg med dette
-- [x] Støtte for Min Renovasjon
-- [] Støtte for BIR
-- [] Støtte for ReMidt
-- [] Støtte for Glør
+[x] Støtte for Min Renovasjon
+[] Støtte for BIR
+[] Støtte for ReMidt
+[] Støtte for Glør
 
 #### *VIKTIG INFO OM RENOVASJON*
 *Per nå er ikke alle kommuner støttet. en komplett liste med støttede kommuner kommer snart.*
