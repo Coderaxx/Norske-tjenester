@@ -16,7 +16,7 @@ Enheten henter data om hvilke typer avfall som hentes på din adresse og når. E
 - ❌ HeltHjem pakkesporing
 - ❌ PostNord pakkesporing
 - ❌ Posten pakkesporing
-- 🟠 Kjøretøyopplysninger fra Vegvesenet
+- Kjøretøyopplysninger fra Vegvesenet
   - ❌ Informasjon om neste EU
 
 **I produksjon:**
