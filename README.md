@@ -12,7 +12,7 @@ Enheten henter data om hvilke typer avfall som hentes på din adresse og når. E
 ### ROADMAP
 *Per nå jobber jeg med dette*
 - [x] Posten
-  [ ] Lage flows for Posten
+  - [ ] Lage flows for Posten
 - [x] Renovasjon
   - [x] Støtte for Min Renovasjon
   - [ ] Støtte for BIR
