@@ -13,27 +13,27 @@ Enheten henter data om hvilke typer avfall som hentes på din adresse og når. E
 *Per nå jobber jeg med dette:*
 
 **Planlagt:**
-- :x: HeltHjem pakkesporing
-- :x: PostNord pakkesporing
-- :x: Posten pakkesporing
+- ❌ HeltHjem pakkesporing
+- ❌ PostNord pakkesporing
+- ❌ Posten pakkesporing
 - Kjøretøyopplysninger fra Vegvesenet
-  - :x: Informasjon om neste EU
+  - ❌ Informasjon om neste EU
 
 **I produksjon:**
 - Posten
-  - :x: Lage flows for Posten
+  - 🟠 Lage flows for Posten
 
 - Renovasjon
-  - :orange_circle: Støtte for BIR
-  - :orange_circle: Støtte for ReMidt
-  - :orange_circle: Støtte for Glør
-  - :orange_circle: Lage flows for renovasjon
+  - 🟠 Støtte for BIR
+  - 🟠 Støtte for ReMidt
+  - 🟠 Støtte for Glør
+  - 🟠 Lage flows for renovasjon
 
 **Implementert:**
-- :heavy_check_mark: Posten
+- ✔️ Posten
 
-- :heavy_check_mark: Renovasjon
-  - :heavy_check_mark: Støtte for Min Renovasjon
+- ✔️ Renovasjon
+  - ✔️ Støtte for Min Renovasjon
 
 #### *VIKTIG INFO OM RENOVASJON*
 *Per nå er ikke alle kommuner støttet. en komplett liste med støttede kommuner kommer snart.*
