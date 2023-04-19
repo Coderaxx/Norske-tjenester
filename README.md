@@ -13,11 +13,11 @@ Enheten henter data om hvilke typer avfall som hentes på din adresse og når. E
 *Per nå jobber jeg med dette:*
 
 **Planlagt:**
-- ❌ HeltHjem pakkesporing
-- ❌ PostNord pakkesporing
-- ❌ Posten pakkesporing
+- 🔴 HeltHjem pakkesporing
+- 🔴 PostNord pakkesporing
+- 🔴 Posten pakkesporing
 - Kjøretøyopplysninger fra Vegvesenet
-  - ❌ Informasjon om neste EU
+  - 🔴 Informasjon om neste EU
 
 **I produksjon:**
 - Posten
@@ -30,9 +30,9 @@ Enheten henter data om hvilke typer avfall som hentes på din adresse og når. E
   - 🟠 Lage flows for renovasjon
 
 **Implementert:**
-- ✔️ Posten
-- ✔️ Renovasjon
-  - ✔️ Støtte for Min Renovasjon
+- 🟢 Posten
+- 🟢 Renovasjon
+  - 🟢 Støtte for Min Renovasjon
 
 #### *VIKTIG INFO OM RENOVASJON*
 *Per nå er ikke alle kommuner støttet. en komplett liste med støttede kommuner kommer snart.*
