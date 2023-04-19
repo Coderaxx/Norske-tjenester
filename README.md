@@ -21,7 +21,7 @@ Enheten henter data om hvilke typer avfall som hentes på din adresse og når. E
 
 **I produksjon:**
 - Posten
-  - :orange_circle: Lage flows for Posten
+  - :x: Lage flows for Posten
 
 - Renovasjon
   - :orange_circle: Støtte for BIR
