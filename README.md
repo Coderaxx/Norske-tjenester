@@ -9,7 +9,7 @@ Enheten viser neste levering av post på ditt postnummer. En nedtelling i dager 
 #### Renovasjon
 Enheten henter data om hvilke typer avfall som hentes på din adresse og når. Enheten lager sensorer som tilsvarer typen avfall, og viser dato. En nedtelling i dager og type avfall som hentes neste gang, kan settes som status på enheten.
 
-### ROADMAP
+#### ROADMAP
 *Per nå jobber jeg med dette*
 - :heavy_check_mark: Posten
   - :x: Lage flows for Posten
