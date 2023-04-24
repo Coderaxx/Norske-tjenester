@@ -71,6 +71,33 @@ Det kan du gjøre ved å åpne en issue her på GitHub. Trykk [her](https://gith
 1.0.5 - Fixed wrong icon showing while pairing Posten
 1.0.6 - Fixed polling
 1.1.0 - Added garbage removal device
+1.1.3 - Added renovation device
+1.1.4 - Removed flow for Posten, because it is no longer used.
+1.1.5 - Fixed app creashing when API response status doesn't return 200
+1.1.6 - Changed some urls in the metadata of the app
+1.1.7 - Fixed translations
+1.1.8 - Fixed wrong spelling in code resulting in crash
+1.1.9 - Added icons for waste type
+1.1.10 - Removed some code in pairing state
+1.1.11 - Fixed icons for renovation
+1.1.12 - Removed the blank border around the renovation icons
+1.1.13 - Added support for multiple waste types on same pickup date (Experimental!)
+1.1.14 - Fixed waste type showing as "undefined"
+1.1.15 - Tried to fix countdown sensor showing invalid result
+1.1.16 - Tried to fix countdown sensor
+1.1.17 - Trying yet another fix on countdown sensor
+1.1.18 - Fixed invalid string
+1.1.19 - Tried fixing countdown sensor
+1.1.20 - Added missing capability "garden"
+1.1.21 - Added missing capabilities"
+1.1.22 - Fix multiple waste types showing correctly on sensor
+1.1.23 - Removed old code
+1.1.24 - General fixes
+1.1.25 - General fixes
+1.1.26 - Finally fixed the countdown sensor not displaying properly. It should now work flawlessly!
+1.1.27 - Finally fixed the countdown sensor not displaying properly. It should now work flawlessly!
+1.1.28 - Finally fixed the countdown sensor not displaying properly. It should now work flawlessly!
+1.1.29 - Fixed bug where capabilities wouldn't be removed if unused
 ```
 
 
