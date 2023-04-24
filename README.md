@@ -20,14 +20,14 @@ Enheten henter data om hvilke typer avfall som hentes på din adresse og når. E
   - 🔴 Informasjon om neste EU
 - 🔴 Norske flaggdager\
 
-**I produksjon:**
-\
-**Posten**
-\
+**I produksjon:**  
+
+**Posten**  
+
 - 🟠 Lage flows for Posten
 
-**Renovasjon**
-<br>
+**Renovasjon**  
+
 - 🟠 Støtte for BIR
 - 🟠 Støtte for ReMidt
 - 🟠 Støtte for Glør
