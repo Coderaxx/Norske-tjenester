@@ -21,16 +21,16 @@ Enheten henter data om hvilke typer avfall som hentes på din adresse og når. E
 - 🔴 Norske flaggdager
 
 **I produksjon:**
-- Posten
-  - 🟠 Lage flows for Posten
+**Posten**
+- 🟠 Lage flows for Posten
 
-- Renovasjon
-  - 🟠 Støtte for BIR
-  - 🟠 Støtte for ReMidt
-  - 🟠 Støtte for Glør
-  - 🟠 Støtte for Innherred Renovasjon
-  - 🟠 Støtte for Stavanger kommune
-  - 🟠 Lage flows for renovasjon
+**Renovasjon**
+- 🟠 Støtte for BIR
+- 🟠 Støtte for ReMidt
+- 🟠 Støtte for Glør
+- 🟠 Støtte for Innherred Renovasjon
+- 🟠 Støtte for Stavanger kommune
+- 🟠 Lage flows for renovasjon
 
 **Implementert:**
 - 🟢 Posten
