@@ -19,9 +19,9 @@ Enheten henter data om hvilke typer avfall som hentes på din adresse og når. E
 - Kjøretøyopplysninger fra Vegvesenet
   - 🔴 Informasjon om neste EU
 - 🔴 Norske flaggdager
-<br>
+\
 **I produksjon:**
-<br><br>
+\
 **Posten**
 <br>
 - 🟠 Lage flows for Posten
