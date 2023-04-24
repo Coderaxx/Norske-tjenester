@@ -18,6 +18,7 @@ Enheten henter data om hvilke typer avfall som hentes på din adresse og når. E
 - 🔴 Posten pakkesporing
 - Kjøretøyopplysninger fra Vegvesenet
   - 🔴 Informasjon om neste EU
+- 🔴 Norske flaggdager
 
 **I produksjon:**
 - Posten
@@ -27,6 +28,8 @@ Enheten henter data om hvilke typer avfall som hentes på din adresse og når. E
   - 🟠 Støtte for BIR
   - 🟠 Støtte for ReMidt
   - 🟠 Støtte for Glør
+  - 🟠 Støtte for Innherred Renovasjon
+  - 🟠 Støtte for Stavanger kommune
   - 🟠 Lage flows for renovasjon
 
 **Implementert:**
