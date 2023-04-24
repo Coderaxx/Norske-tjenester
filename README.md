@@ -18,7 +18,7 @@ Enheten henter data om hvilke typer avfall som hentes på din adresse og når. E
 - 🔴 Posten pakkesporing
 - Kjøretøyopplysninger fra Vegvesenet
   - 🔴 Informasjon om neste EU
-- 🔴 Norske flaggdager\
+- 🔴 Norske flaggdager  
 
 **I produksjon:**  
 
