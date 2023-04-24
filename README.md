@@ -23,9 +23,11 @@ Enheten henter data om hvilke typer avfall som hentes på din adresse og når. E
 **I produksjon:**
 <br><br>
 **Posten**
+<br>
 - 🟠 Lage flows for Posten
 
 **Renovasjon**
+<br>
 - 🟠 Støtte for BIR
 - 🟠 Støtte for ReMidt
 - 🟠 Støtte for Glør
