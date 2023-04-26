@@ -28,11 +28,13 @@ Enheten henter data om hvilke typer avfall som hentes på din adresse og når. E
 
 **Renovasjon**  
 
-- 🟠 Støtte for BIR
-- 🟠 Støtte for ReMidt
-- 🟠 Støtte for Glør
-- 🟠 Støtte for Innherred Renovasjon
-- 🟠 Støtte for Stavanger kommune
+- 🟢 Støtte for BIR
+- 🟢 Støtte for ReMidt
+- 🟢 Støtte for Glør
+- 🟢 Støtte for Innherred Renovasjon
+- 🟢 Støtte for Stavanger kommune
+- 🟠 Støtte for Oslo kommune
+- 🟠 Støtte for Avfall Sør
 - 🟠 Lage flows for renovasjon
 
 **Implementert:**
