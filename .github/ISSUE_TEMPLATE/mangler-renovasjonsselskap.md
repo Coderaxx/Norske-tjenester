@@ -1,7 +1,7 @@
 ---
 name: Mangler renovasjonsselskap
 about: Hvis du har et renovasjonsselskap som mangler i appen, bruker du denne malen.
-title: "[Renovasjon]"
+title: "[Renovasjon] "
 labels: Mangler renovasjonsselskap
 assignees: ''
 
