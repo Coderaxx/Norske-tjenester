@@ -3,7 +3,7 @@ name: Posten Bugs
 about: Bruk denne malen hvis du har problemer med Posten.
 title: "[Posten] "
 labels: Posten
-assignees: ''
+assignees: 'Coderaxx'
 
 ---
 
